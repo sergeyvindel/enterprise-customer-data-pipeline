@@ -1,0 +1,15 @@
+{
+    "records": 100000,
+
+    "duplicate_rate": 0.08,
+    "invalid_email_rate": 0.04,
+    "missing_values_rate": 0.03,
+
+    "random_seed": 42,
+
+    "raw_output_file": "input/customers_raw.csv",
+    "dirty_output_file": "input/customers_dirty.csv",
+    "clean_output_file": "output/customers_clean.csv",
+    "quality_report": "output/data_quality_report.xlsx",
+    "log_file": "logs/pipeline.log"
+}
