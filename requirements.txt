@@ -37,7 +37,8 @@ bleach @ file:///opt/conda/conda-bld/bleach_1641577558959/work
 blinker @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/blinker_1699474692786/work
 bokeh @ file:///C:/b/abs_b40zi4jp_s/croot/bokeh_1727914495891/work
 boltons @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/boltons_1699480450092/work
-botocore @ file:///C:/b/abs_0dkeqep0ox/croot/botocore_1714460586193/work
+boto3==1.43.41
+botocore==1.43.41
 Bottleneck @ file:///C:/b/abs_f7un855idq/croot/bottleneck_1709069969633/work
 Brotli @ file:///C:/b/abs_3d36mno480/croot/brotli-split_1714483178642/work
 cachetools @ file:///C:/b/abs_792zbtc0ua/croot/cachetools_1713977157919/work
@@ -288,6 +289,7 @@ ruamel-yaml-conda @ file:///C:/Users/dev-admin/perseverance-python-buildout/croo
 ruamel.yaml @ file:///C:/b/abs_0cunwx_ww6/croot/ruamel.yaml_1727980181547/work
 ruamel.yaml.clib @ file:///C:/b/abs_5fk8zi6n09/croot/ruamel.yaml.clib_1727769837359/work
 s3fs @ file:///C:/b/abs_ddtjx92ddb/croot/s3fs_1724924140381/work
+s3transfer==0.19.0
 scikit-image @ file:///C:/b/abs_85dh_ywewv/croot/scikit-image_1726762076100/work
 scikit-learn @ file:///C:/b/abs_aajc9f7v6r/croot/scikit-learn_1722067652693/work/dist/scikit_learn-1.5.1-cp312-cp312-win_amd64.whl#sha256=96ed6defb86c154d2ff360afdbf0c37c33c4c729d4a15c9d8ada0b70fd817816
 scipy @ file:///C:/b/abs_efv75hqhju/croot/scipy_1717521501389/work/dist/scipy-1.13.1-cp312-cp312-win_amd64.whl#sha256=b29dba691773ea983857b31cad894f31623348583937b6f03783facfd7abc734

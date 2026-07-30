@@ -114,3 +114,6 @@ The pipeline automatically generates:
 **Sergio Vindel**
 
 Data Analytics | Data Engineering | Python Automation | Business Intelligence
+
+
+
