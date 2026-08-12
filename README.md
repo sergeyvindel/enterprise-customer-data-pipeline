@@ -62,23 +62,31 @@ enterprise-customer-data-pipeline/
 * Data Quality
 * ETL
 * Automation
+* AWS S3
+* Boto3
+* AWS CLI
+* IAM
 
 ---
 
 ## Pipeline Workflow
 
-```text
 Generate Dataset
-        │
-        ▼
+      │
+      ▼
 Inject Data Quality Issues
-        │
-        ▼
+      │
+      ▼
 Clean & Validate Dataset
-        │
-        ▼
+      │
+      ▼
 Generate Executive Excel Report
-```
+      │
+      ▼
+Upload Data to AWS S3
+      │
+      ▼
+raw/ | dirty/ | clean/ | reports/
 
 ---
 
